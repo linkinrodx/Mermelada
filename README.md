@@ -1,10 +1,10 @@
 # Mermelada
 
-Proyecto de consola, desarrollado como sistema de alimentación, que permite dar recomendaciones de produción en base a una cantidad de insumos.
+Proyecto de consola, desarrollado como sistema de alimentación, que permite dar recomendaciones de producción en base a una cantidad de insumos.
 
 ## Pantalla Principal
 
-Seleecionar una opcion
+Seleccionar una opción
 
 ![Sistema de Alimentacion, eleccion](https://github.com/linkinrodx/Mermelada/blob/main/images/img1.png)
 
